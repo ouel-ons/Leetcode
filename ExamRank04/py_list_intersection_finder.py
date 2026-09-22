@@ -79,6 +79,11 @@ def list_intersection_finder(lists: list[list[int]]) -> list[int]:
     
     
     
+
+def list_intersection_finder(lists: list[list[int]]) -> list[int]:
+    pass
+    
+    
     
 
 print(list_intersection_finder([[9, 2, 3], [9, 3, 4], [9, 3, 5]]))
